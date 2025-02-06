@@ -11,7 +11,7 @@ from rich.style import Style
 import pystyle
 from pystyle import Colors, Colorate
 
-from baldan661 import Test
+from telmnnuker import Test
 
 __CHANNEL_USERNAME__ = "TelmunnTest"
 __GROUP_USERNAME__   = "TelmunnTestChat"
